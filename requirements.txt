@@ -1,0 +1,4 @@
+pynacl
+httpx
+python-fasthtml>=0.4.4
+
